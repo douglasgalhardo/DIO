@@ -1,0 +1,11 @@
+a = (11+10+1000)
+b = (1.5+1+0.5)
+c = (True)
+d = (False)
+e = ("Pynthon")
+
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
